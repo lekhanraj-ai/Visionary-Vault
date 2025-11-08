@@ -1,0 +1,19 @@
+# fastapi
+# uvicorn[standard]
+# pandas
+# numpy
+# scikit-learn
+# joblib
+# matplotlib
+# reportlab
+# langchain
+# chromadb
+# sentence-transformers
+# openai
+# python-multipart
+Flask>=2.0
+flask-cors
+python-dotenv
+requests
+joblib
+scikit-learn

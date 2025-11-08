@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #14532d;
+  color: white;
+  padding: 1rem 2rem;
+}
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 1.2rem;
+  margin: 0;
+  padding: 0;
+}
+.navbar a {
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+.navbar a:hover {
+  text-decoration: underline;
+}
+.logo {
+  font-weight: bold;
+  font-size: 1.2rem;
+}

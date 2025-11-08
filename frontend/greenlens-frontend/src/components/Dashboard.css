@@ -1,0 +1,36 @@
+.dashboard {
+  text-align: center;
+  background-color: #f5faf6;
+  color: #14532d;
+  padding: 20px;
+}
+
+.chart-box {
+  background: #ffffff;
+  margin: 0 auto;
+  width: 80%;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05);
+}
+
+.status-box {
+  margin-top: 20px;
+  background: #e8f5e9;
+  padding: 15px;
+  border-radius: 8px;
+  width: 60%;
+  margin-inline: auto;
+}
+
+.prediction-box {
+  margin-top: 10px;
+  background: #fff;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05);
+}
+
+.msg {
+  font-weight: 500;
+}
